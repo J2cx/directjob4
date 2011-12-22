@@ -1,0 +1,26 @@
+25/10/2011 17:49:48  : psa : 10 pages, 0 annonces.
+25/10/2011 18:00:02  : Kiloutou : 5 pages, 0 annonces.
+25/10/2011 18:11:23  : Insert into sites, entreprise : Kiloutou
+25/10/2011 18:11:23  : Insert into params, siteid : 0, entreprise : Kiloutou, nbparams : 4
+25/10/2011 18:11:23  : Insert into extract_queue, site_id : 0, entreprise : Kiloutou
+25/10/2011 18:11:24  : Insert into sites, entreprise : Kiloutou
+25/10/2011 18:11:24  : Insert into params, siteid : 0, entreprise : Kiloutou, nbparams : 4
+25/10/2011 18:11:24  : Insert into extract_queue, site_id : 0, entreprise : Kiloutou
+25/10/2011 18:11:24  : Insert into sites, entreprise : Kiloutou
+25/10/2011 18:11:24  : Insert into params, siteid : 0, entreprise : Kiloutou, nbparams : 4
+25/10/2011 18:11:24  : Insert into extract_queue, site_id : 0, entreprise : Kiloutou
+25/10/2011 18:12:10  : Insert into sites, entreprise : Kiloutou
+25/10/2011 18:12:10  : Insert into params, siteid : 0, entreprise : Kiloutou, nbparams : 4
+25/10/2011 18:12:10  : Insert into extract_queue, site_id : 0, entreprise : Kiloutou
+25/10/2011 18:12:35  : Insert into sites, entreprise : Kiloutou
+25/10/2011 18:12:35  : Insert into params, siteid : 0, entreprise : Kiloutou, nbparams : 4
+25/10/2011 18:12:36  : Insert into extract_queue, site_id : 0, entreprise : Kiloutou
+25/10/2011 18:25:20  : Insert into sites, entreprise : Kiloutou
+25/10/2011 18:25:20  : Insert into params, siteid : 54, entreprise : Kiloutou, nbparams : 4
+25/10/2011 18:25:20  : Insert into extract_queue, site_id : 54, entreprise : Kiloutou
+25/10/2011 18:33:05  : Update sites, entreprise : Kiloutou
+25/10/2011 18:39:12  : Insert into params, siteid : 56, entreprise : Kiloutou, nbparams : 4
+25/10/2011 18:39:12  : Insert into extract_queue, site_id : 56, entreprise : Kiloutou
+25/10/2011 18:39:25  : Update sites, entreprise : Kiloutou
+25/10/2011 18:39:32  : Insert into params, siteid : 56, entreprise : Kiloutou, nbparams : 4
+25/10/2011 18:39:32  : Insert into extract_queue, site_id : 56, entreprise : Kiloutou

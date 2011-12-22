@@ -1,0 +1,19 @@
+25/07/2011 16:59:10  : Intermarche : 1 pages, 0 annonces.
+25/07/2011 16:59:17  : Update sites, entreprise : Intermarche
+25/07/2011 16:59:18  : Insert into params, siteid : 10, entreprise : Intermarche, nbparams : 2
+25/07/2011 16:59:18  : Insert into extract_queue, site_id : 10, entreprise : Intermarche
+25/07/2011 16:59:23  : Intermarche : 1 pages, 15 annonces.
+25/07/2011 17:10:57  : La Poste : 5 pages, 0 annonces.
+25/07/2011 17:12:47  : La Poste : 5 pages, 0 annonces.
+25/07/2011 17:14:24  : La Poste : 5 pages, 0 annonces.
+25/07/2011 17:14:27  : Update sites, entreprise : La Poste
+25/07/2011 17:14:27  : Insert into params, siteid : 3, entreprise : La Poste, nbparams : 3
+25/07/2011 17:14:27  : Insert into extract_queue, site_id : 3, entreprise : La Poste
+25/07/2011 17:14:44  : La Poste : 5 pages, 50 annonces.
+25/07/2011 17:18:46  : Lafarge : 8 pages, 0 annonces.
+25/07/2011 17:18:49  : Update sites, entreprise : Lafarge
+25/07/2011 17:18:49  : Insert into params, siteid : 50, entreprise : Lafarge, nbparams : 3
+25/07/2011 17:18:49  : Insert into extract_queue, site_id : 50, entreprise : Lafarge
+25/07/2011 17:21:32  : SNCF : 2 pages, 0 annonces.
+25/07/2011 17:23:00  : SNCF : 2 pages, 0 annonces.
+25/07/2011 17:25:23  : SNCF : 2 pages, 0 annonces.

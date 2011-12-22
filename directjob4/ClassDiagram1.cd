@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="directjob4.CrossFrameIE" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAIBAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>CrossFrameIE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="directjob4.DirectJobForm">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cqL4UrfREDYggHRDhkDVaWSyZ5h8e8OdEiyjHQnfldI=</HashCode>
+      <FileName>DirectJobForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="directjob4.Modify" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKIAAAAAAgCAAAACAAIYCAAEEGAQAAAAAAA=</HashCode>
+      <FileName>Modify.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="directjob4.Parametres" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFRBAEAEQAA0AEAAEAxAIQAEQQMSEGETMoAhEQbEQQA=</HashCode>
+      <FileName>Parametres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="directjob4.Program" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAEAACEAAAAAAAAAAAAAAAAAAAAAAAABAAACAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="directjob4.Verifier" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAQiAkEAAAAACdUAQCAKAQARAEiAACAQAAgBA=</HashCode>
+      <FileName>Verifier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="directjob4.WebExtract" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAgAAAAAACAAAYCAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WebExtract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="directjob4.WebForm" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQDAAAEAyCwQCgAAkCIBgwCBZEQAg0AAAEECAQRCIA=</HashCode>
+      <FileName>WebForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="directjob4.test" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAQAABAAAAAAAAACAAAAAAAAAAAAAAAAAAEAI=</HashCode>
+      <FileName>WebForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="directjob4.backgroud" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>WebForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="directjob4.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="directjob4.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="directjob4.IServiceProvider" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CrossFrameIE.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="directjob4.Annonceur" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Parametres.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

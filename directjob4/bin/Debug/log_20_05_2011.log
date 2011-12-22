@@ -1,0 +1,32 @@
+20/05/2011 17:04:32  : Eleclerc : 10 pages, 0 annonces.
+20/05/2011 17:04:59  : Eleclerc : 10 pages, 0 annonces.
+20/05/2011 17:05:21  : Eleclerc : 10 pages, 0 annonces.
+20/05/2011 17:09:01  : Update sites, entreprise : Eleclerc
+20/05/2011 17:09:01  : Insert into params, siteid : 8, entreprise : Eleclerc, nbparams : 2
+20/05/2011 17:09:01  : Insert into extract_queue, site_id : 8, entreprise : Eleclerc
+20/05/2011 17:10:21  : Eleclerc : 10 pages, 250 annonces.
+20/05/2011 17:26:11  : SNCF : 2 pages, 0 annonces.
+20/05/2011 17:26:37  : SNCF : 2 pages, 0 annonces.
+20/05/2011 17:26:45  : SNCF : 2 pages, 0 annonces.
+20/05/2011 17:29:50  : Update sites, entreprise : SNCF
+20/05/2011 17:29:50  : Insert into params, siteid : 31, entreprise : SNCF, nbparams : 3
+20/05/2011 17:29:50  : Insert into extract_queue, site_id : 31, entreprise : SNCF
+20/05/2011 17:30:20  : SNCF : 2 pages, 15 annonces.
+20/05/2011 17:37:49  : Update sites, entreprise : Alcatel
+20/05/2011 17:37:49  : Insert into params, siteid : 47, entreprise : Alcatel, nbparams : 1
+20/05/2011 17:37:49  : Insert into extract_queue, site_id : 47, entreprise : Alcatel
+20/05/2011 17:40:35  : Alcatel : 1 pages, 0 annonces.
+20/05/2011 17:47:07  : Alcatel : 1 pages, 0 annonces.
+20/05/2011 17:51:33  : Alcatel : 1 pages, 0 annonces.
+20/05/2011 17:56:53  : Alcatel : 1 pages, 0 annonces.
+20/05/2011 17:59:21  : Alcatel : 1 pages, 0 annonces.
+20/05/2011 18:00:58  : Update sites, entreprise : Alstom
+20/05/2011 18:00:58  : Insert into params, siteid : 48, entreprise : Alstom, nbparams : 1
+20/05/2011 18:00:58  : Insert into extract_queue, site_id : 48, entreprise : Alstom
+20/05/2011 18:01:44  : Update sites, entreprise : Michelin
+20/05/2011 18:01:44  : Insert into params, siteid : 49, entreprise : Michelin, nbparams : 1
+20/05/2011 18:01:44  : Insert into extract_queue, site_id : 49, entreprise : Michelin
+20/05/2011 18:02:38  : Update sites, entreprise : Suez/GDF
+20/05/2011 18:02:38  : Insert into params, siteid : 16, entreprise : Suez/GDF, nbparams : 1
+20/05/2011 18:02:38  : Insert into extract_queue, site_id : 16, entreprise : Suez/GDF
+20/05/2011 18:04:19  : Suez/GDF : 1 pages, 99 annonces.

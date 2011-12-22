@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configure>
+
+		<nomduserveur>DA-ISIS2</nomduserveur>
+		<login>directjob</login>
+		<pass>MyJ0b723</pass>
+		<database>db_testJobs</database>
+
+</configure>

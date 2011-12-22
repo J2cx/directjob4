@@ -1,0 +1,5 @@
+05/08/2011 16:31:18  : AirFrance : 5 pages, 0 annonces.
+05/08/2011 16:34:57  : Update sites, entreprise : AirFrance
+05/08/2011 16:34:57  : Insert into params, siteid : 26, entreprise : AirFrance, nbparams : 3
+05/08/2011 16:34:57  : Insert into extract_queue, site_id : 26, entreprise : AirFrance
+05/08/2011 16:35:04  : AirFrance : 5 pages, 29 annonces.
